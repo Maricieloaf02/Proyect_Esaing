@@ -18,8 +18,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
-        <Menu />
+      <body className="min-w-[1300px]">
+        <div>
+          <Menu />
+        </div>
+
         {children}
         <Pie />
       </body>

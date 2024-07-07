@@ -15,11 +15,11 @@ export const Menu = () => {
             <div className="bg-[#63989B] flex text-blanco py-3 px-4 gap-4">
               <div className="flex items-center justify-center gap-x-3">
                 <Celular2ICon />
-                <strong>Llámanos</strong>: 667 255 4603
+                <strong>Llámanos</strong>: 970-739-351
               </div>
               <div className="flex items-center justify-center gap-x-3">
                 <RelojIcon />
-                <strong>Horarios</strong>: 667 255 4603
+                <strong>Horarios</strong>: 8:00am - 5:00pm
               </div>
             </div>
             <div className="bg-[#F0DBB3] py-6">
