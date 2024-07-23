@@ -15,7 +15,7 @@ export const Menu = () => {
             <div className="bg-[#63989B] flex text-blanco py-3 px-4 gap-4">
               <div className="flex items-center justify-center gap-x-3">
                 <Celular2ICon />
-                <strong>Llámanos</strong>: 970-739-351
+                <strong>Llámanos</strong>: 999457027
               </div>
               <div className="flex items-center justify-center gap-x-3">
                 <RelojIcon />
